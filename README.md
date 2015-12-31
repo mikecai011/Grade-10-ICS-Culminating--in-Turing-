@@ -1,7 +1,7 @@
 # Grade-10-ICS-Culminating--in-Turing-
 A simple alarm clock made in Turing language
 
-This program was created for Grade 10 Introduction to Computer Science cource culminating project.
+This program was created for Grade 10 Introduction to Computer Studies cource culminating project.
 I do NOT hold rights to any of the images used in the creation.
 New images are used, for I could not find my original citation document.
 Pictures are edited and resized from original download.
